@@ -11,7 +11,7 @@ import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.api.TestInstance.Lifecycle;
 import org.junit.jupiter.api.extension.ExtendWith;
 
-import com.finx.FinXApplication;
+import com.finx.trueApplication;
 import com.finx.FinxConfiguration;
 
 import io.dropwizard.testing.ResourceHelpers;
@@ -22,7 +22,7 @@ import io.dropwizard.testing.junit5.DropwizardExtensionsSupport;
 @TestInstance(Lifecycle.PER_CLASS)
 public class JokeControllerTest {
 
-	private static DropwizardAppExtension<FinxConfiguration> EXT = new DropwizardAppExtension<>(FinXApplication.class,
+	private static DropwizardAppExtension<FinxConfiguration> EXT = new DropwizardAppExtension<>(trueApplication.class,
 			ResourceHelpers.resourceFilePath("application-test.yml"));
 
 	@Test

@@ -20,7 +20,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 
 import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
-import com.finx.FinXApplication;
+import com.finx.trueApplication;
 import com.finx.FinxConfiguration;
 import com.finx.core.configuration.JokeConfiguration;
 import com.finx.core.response.Response;
@@ -36,7 +36,7 @@ import io.dropwizard.testing.junit5.DropwizardExtensionsSupport;
 public class JokeRepoTest {
 		
     public static final DropwizardTestSupport<FinxConfiguration> SUPPORT =
-	            new DropwizardTestSupport<FinxConfiguration>(FinXApplication.class,
+	            new DropwizardTestSupport<FinxConfiguration>(trueApplication.class,
 	                ResourceHelpers.resourceFilePath("application-test.yml"),
 	                ConfigOverride.config("server.applicationConnectors[0].port", "0"));
 
