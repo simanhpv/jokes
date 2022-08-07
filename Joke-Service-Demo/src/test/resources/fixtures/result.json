@@ -1,0 +1,88 @@
+{
+  "total": 9,
+  "result": [
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:19.104863",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "rqhxqmvpqxwqp7jpkukprw",
+      "updated_at": "2020-01-05 13:42:19.104863",
+      "url": "https://api.chucknorris.io/jokes/rqhxqmvpqxwqp7jpkukprw",
+      "value": "Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.262289",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Ar7bdSTFTFqUrsc4-WMNhA",
+      "updated_at": "2020-01-05 13:42:20.262289",
+      "url": "https://api.chucknorris.io/jokes/Ar7bdSTFTFqUrsc4-WMNhA",
+      "value": "Hot news from the Vatican...white smoke appears. Chuck Norris has been elected Pope! All ye of faith, welcome Pope Charles deNoir-iz Kikyorectumis."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:20.841843",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yghI7jeaRbq_epm1twlCKg",
+      "updated_at": "2020-01-05 13:42:20.841843",
+      "url": "https://api.chucknorris.io/jokes/yghI7jeaRbq_epm1twlCKg",
+      "value": "During the Japan Tsunami a UFO was spotted flying out of the water.Recent news report Chuck Norris piloted the object. That object was his leg."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:21.179347",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "eVQNZRc7Rh--wv7MrGNgqA",
+      "updated_at": "2020-01-05 13:42:21.179347",
+      "url": "https://api.chucknorris.io/jokes/eVQNZRc7Rh--wv7MrGNgqA",
+      "value": "A reporter asked Chuck Norris what he thought when the news runs a story about the Kardashians. Chuck said \"I think that's a good time to take a big dump\"."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:25.352697",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "E8MQByNzQr2buvL0SH1YsQ",
+      "updated_at": "2020-01-05 13:42:25.352697",
+      "url": "https://api.chucknorris.io/jokes/E8MQByNzQr2buvL0SH1YsQ",
+      "value": "Chuck Norris only keeps in touch with his first nine dozen kids - all the others around the world get a quarterly newsletter"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.420821",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "pLHjbekGT3G8vqpU1PrdGw",
+      "updated_at": "2020-01-05 13:42:28.420821",
+      "url": "https://api.chucknorris.io/jokes/pLHjbekGT3G8vqpU1PrdGw",
+      "value": "Chuck Norris smokes rolled-up newspapers."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.984661",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "bHeYZi2CTRi8M7iwd86dBA",
+      "updated_at": "2020-01-05 13:42:28.984661",
+      "url": "https://api.chucknorris.io/jokes/bHeYZi2CTRi8M7iwd86dBA",
+      "value": "Bad news - Chuck Norris got sick last week and died. Good news - He's feeling much better now and went back to work yesterday."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:29.569033",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "psSVDtymSZmyH6TSeLQ1Yg",
+      "updated_at": "2020-01-05 13:42:29.569033",
+      "url": "https://api.chucknorris.io/jokes/psSVDtymSZmyH6TSeLQ1Yg",
+      "value": "Chuck Norris once saw Spiderman on a wall so he folded up a newspaper and swatted him."
+    },
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:29.855523",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "7EEWW3oAR9-E5udK3DFOfQ",
+      "updated_at": "2020-01-05 13:42:29.855523",
+      "url": "https://api.chucknorris.io/jokes/7EEWW3oAR9-E5udK3DFOfQ",
+      "value": "Chuck Norris once won the \"World's Longest Penis\" contest with a length of 19.75 inches. In a news interview following the event, he modestly admitted that the only pulled out enough to barely win."
+    }
+  ]
+}

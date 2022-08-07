@@ -1,0 +1,31 @@
+appName: Joke service
+logging:
+  level: INFO
+  appenders:
+    - type: console
+    - type: file
+      currentLogFilename: ./log/joke-service.log
+      threshold: ALL
+      queueSize: 512
+      discardingThreshold: 0
+      archive: true
+      archivedLogFilenamePattern: ./log/joke-servic-%d.log
+      archivedFileCount: 5
+      timeZone: UTC
+      logFormat: "%-5p [%d{ISO8601,UTC}] %c: %m%n%rEx"
+      bufferSize: 8KiB
+      immediateFlush: true
+
+server:
+ applicationConnectors:
+  - type: http
+    port: 8080
+jokeApi:
+  host: api.chucknorris.io
+  baseUrl: https://api.chucknorris.io/jokes/
+  endPoint: search/
+  
+
+rateLimit:
+  redisHost: localhost
+  redisPort: 6379
